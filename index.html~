@@ -22,7 +22,7 @@
 <tbody>
 <tr>
 <td style="width: 35%; text-align: right;"><img style="float: left;" src="images/tftpd32_logo.gif" alt="tftpd64 logo" width="135" height="135" /></td>
-<td style="width: 30%; text-align: right;"><h1>Tftpd64</h1></td>
+<td style="width: 30%; text-align: center;"><h1>Tftpd64</h1></td>
 <td style="width: 35%; text-align: right;">
 <h2><span style="color: #0000ff;">The industry standard TFTP server</span></h2>
 </td>
@@ -44,6 +44,7 @@ The included DHCP server provides unlimited automatic or static IP address assig
 <tr> <td style="margin: 30px;"><a href="tftpd64_descr.html">Description</A></td> </tr>
 </tbody>
 </table>
-<div style="center"><img style="center" src="images/working_tftpd32.jpg"></div>
+<hr>
+<div><img style="align=center;" src="images/working_tftpd32.jpg"></div>
 </body>
 </html>
