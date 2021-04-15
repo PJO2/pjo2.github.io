@@ -12,6 +12,8 @@ TABLE   {
         }
 p, H1 {  margin-left:20px; margin-right:10px; }
 
+H1    { color: brown; }
+
 .hidden { color: #0; font-size: 1px ; line-height: 0px; height: 1px; }
 .hidden a:link, .hidden a:visited, .hidden a:hover { font-size: 0px ;color: #111; height: 0px; }
 
@@ -20,7 +22,6 @@ a:link{
 color:#009999;
 text-decoration:underline;
 font-size: 14px;
-
 }
 
 #main {
