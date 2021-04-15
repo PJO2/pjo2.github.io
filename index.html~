@@ -15,16 +15,16 @@
 <link href="champagne.css" rel="stylesheet" type="text/css">
 
 </head>
-<body>
+<body style="margin: 10%;">
 
 	<p>&nbsp;</p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 35%; text-align: right;"><img style="float: left;" src="images/tftpd32_logo.gif" alt="tftpd64 logo" width="135" height="135" /></td>
-<td style="width: 30%; text-align: center;"><h1 style="text-color: brown;">Tftpd64</h1></td>
+<td style="width: 35%; text-align: right;"><img style="float: left;" src="images/tftpd32_logo.gif" alt="tftpd64 logo" width="90" height="90" /></td>
+<td style="width: 30%; text-align: center;"><h1>Tftpd64</h1></td>
 <td style="width: 35%; text-align: right;">
-<h2><span style="color: #0000ff;">The industry standard TFTP server</span></h2>
+	<h2><span style="color: #0000ff;">The industry standard<br>TFTP server</span></h2>
 </td>
 </tr>
 </tbody>
@@ -39,8 +39,8 @@ The included DHCP server provides unlimited automatic or static IP address assig
 <br>
 <table border="0" style="width=80%; align=right; text-align=left">
 <tbody>
-<tr> <td style="margin: 30px;"><a title="Download page" href="https://bitbucket.org/phjounin/tftpd64/downloads/">Download page</a></td> </tr>
-<tr> <td style="margin: 30px;"><a href="https://bitbucket.org/phjounin/tftpd64/src/master/">Git repository</a></td> </tr>
+<tr> <td style="margin-left: 30px;"><a title="Download page" href="https://bitbucket.org/phjounin/tftpd64/downloads/">Download page</a></td> </tr>
+<tr> <td style="margin-left: 30px;"><a href="https://bitbucket.org/phjounin/tftpd64/src/master/">Git repository</a></td> </tr>
 </tbody>
 </table>
 <hr>
