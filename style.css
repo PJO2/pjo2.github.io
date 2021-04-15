@@ -1,0 +1,112 @@
+BODY	{ 
+          background-color: #111;    
+          margin:10px 10px 10px 10px;
+		}
+TABLE     {
+        font-family: Verdana,Helvetica; 
+        font-size: 12px;
+        line-height: 16px;
+        }
+p, H1 {  margin-left:20px; margin-right:10px; }
+
+H1.hidden { color: #f0f0c1; font-size: 1px ; line-height : 5px;}
+        
+#main {
+		border:1px solid #fff; 
+        font-family: Verdana,Helvetica; 
+        font-size: 12px;
+        line-height: 16px;
+		background:#fff;
+        text-align:left;
+        }
+#main #menu {
+		border-left:2px solid #000; 
+		border-right:2px solid #000; 
+		border-bottom:2px solid #000;
+		border-top:2px solid #000;
+		float:left;
+		width:150px;
+		background:#f0f0f0;
+        padding: 0px;
+        margin:10px 10px 0px 0px;
+    	}
+        
+ul#mainmenu {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+table#mainmenu {
+    padding: 0;
+    width: 140px;
+    border-spacing: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+
+ul#mainmenu a {
+  display: block;
+  width: 140 px;
+  height: 12 px;
+  line-height: 28px;
+  font-family: verdana,helvetica,arial,sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+	background-color: #9cb;
+	text-align: left;
+    vertical-align:middle;
+	color: #004;
+  text-decoration: none;
+	margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 10px;
+    border-spacing: 0px;
+}
+#main #mainmenu a:link, #main #mainmenu a:visited {
+  border-top: 1px solid #ade;
+  border-bottom: 2px solid #9cb;
+  border-left: 2px solid #006699;
+  border-right: 2px solid #006699;
+}
+#main #mainmenu a:hover {
+  border-bottom: 1px solid #cecece;
+  border-top: 2px solid #4a4a4a;
+  border-right: 1px solid #cecece;
+  border-left: 2px solid #4a4a4a;
+}
+        
+
+
+
+ul#submenu {
+list-style-type: none;
+margin: 0px 0 0 0px;
+padding: 0;
+}
+
+ul#submenu a {
+  display: block;
+  width: 150 px;
+  height: 15 px;
+  font-family: verdana,helvetica,arial,sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+	background-color: #ddd;
+	text-align: left;
+	color: #004;
+  text-decoration: none;
+	margin: 2px 0;
+}
+#main #submenu a:link, #main #submenu a:visited {
+  border-top: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 2px solid #ddd;
+}
+#main #submenu a:hover {
+  border-bottom: 1px solid #cecece;
+  border-top: 2px solid #4a4a4a;
+  border-right: 1px solid #cecece;
+  border-left: 2px solid #4a4a4a;
+}
+		

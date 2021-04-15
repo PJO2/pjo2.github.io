@@ -1,18 +1,15 @@
 
-/* IMG#trans        { border:0; margin:0 0px; filter:alpha(opacity=90); -moz-opacity:0.90; -khtml-opacity: 0.90; opacity: 0.90;} */
 
 BODY	{ 
-          background-color: #ddd;    
           margin:5px 5px 5px 5px;
           color: #345;
-          font-weight: bold;
-		}
+	  font-family: sans-serif;
+	}
         
 TABLE   {
-        font-family: Verdana,Helvetica; 
         font-size: 12px;
         line-height: 16px;
-          font-weight: bold;
+        font-weight: bold;
         }
 p, H1 {  margin-left:20px; margin-right:10px; }
 
@@ -42,12 +39,9 @@ text-decoration:underline;
 
         
 #main {
-          /* height: 1800px;
-          min-height: 800px;
-          /* background-image: url('images/10years.jpg'); */
-          background-repeat: no-repeat;
-          background-color: #efe; 
-		border:1px solid #000; 
+        background-repeat: no-repeat;
+        background-color: #efe; 
+	border:1px solid #000; 
         font-family: Verdana,Helvetica; 
         font-size: 12px;
         line-height: 16px;
@@ -65,120 +59,5 @@ text-decoration:underline;
         margin:10px 10px 0px 0px;
     	}
 
-/* IMG#opaques     { border:0; margin:0 0px; filter:alpha(opacity=90); -moz-opacity:0.90; -khtml-opacity: 0.90; opacity: 0.90;} */
 
-
-ul#mainmenu {
-list-style-type: none;
-margin: 0;
-padding: 0;
-}
-
-table#mainmenu {
-    padding: 0;
-    width: 140px;
-    border-spacing: 0px;
-	margin: 0px 0px 0px 0px;
-}
-
-
-ul#mainmenu a {
-  display: block;
-  width: 140 px;
-  height: 12 px;
-  line-height: 28px;
-  font-family: verdana,helvetica,arial,sans-serif;
-  font-size: 100%;
-  font-weight: bold;
-	background-color: #046;
-	text-align: left;
-    vertical-align:middle;
-	color: #ddd;
-  text-decoration: none;
-	margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 10px;
-    border-spacing: 0px;
-}
-#main #mainmenu a:link, #main #mainmenu a:visited {
-  border-top: 1px solid #060;
-  border-bottom: 2px solid #036;
-  border-left: 2px solid #006699;
-  border-right: 2px solid #006699;
-}
-#main #mainmenu a:hover {
-  border-bottom: 1px solid #cecece;
-  border-top: 2px solid #4a4a4a;
-  border-right: 1px solid #cecece;
-  border-left: 2px solid #4a4a4a;
-}
-        
-
-
-
-ul#submenu {
-list-style-type: none;
-margin: 0px 0 0 0px;
-padding: 0;
-}
-
-ul#submenu a {
-  display: block;
-  width: 100 px;
-  height: 12 px;
-  line-height: 14px;
-  font-family: verdana,helvetica,arial,sans-serif;
-  font-size: 100%;
-  font-weight: bold;
-  ! C'est ici --- : ;
-	background-color: #ffe;
-	text-align: left;
-	color: dark cyan;
-  text-decoration: none;
-	margin: 2px 0;
-}
-#main #submenu a:link, #main #submenu a:visited {
-  ! Et là --- !: ;
-  border-top: 1px solid #ffd;
-  border-bottom: 2px solid #ffd;
-  border-left: 1px solid #ffd;
-  border-right: 2px solid #ffd;
-	color: #077;
-}
-#main #submenu a:hover {
-  border-bottom: 1px solid #4a4a4a;
-  border-top: 2px solid #cecece;
-  border-right: 1px solid #4a4a4a;
-  border-left: 2px solid #cecece;
-	color: dark cyan;
-}
-
-
-dl.table-display
-{
-width: 600 px;
-margin: 2em 0;
-padding: 0;
-font-family: georgia, times, serif;
-}
-
-.table-display dt
-{
-width: 150 px;
-float: left;
-margin: 0 0 0 0;
-padding: .5em;
-border-top: 1px solid #999;
-font-weight: bold;
-line-height:30px;
-}
-.table-display dd
-{
-margin: 0 120px;
-line-height:30px;
-padding: .5em;
-}
-
-/* hack de commentaire avec un antislash pour ie5 mac \*/
-dt { clear: both; }
-/* end hack */
 
