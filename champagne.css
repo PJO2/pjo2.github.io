@@ -1,7 +1,7 @@
 
 
 BODY	{ 
-          margin:5px 5px 5px 5px;
+          margin: 5px 5% 5px 5%; 
           color: #345;
 	  font-family: sans-serif;
 	}
@@ -10,9 +10,8 @@ TABLE   {
         font-size: 12px;
         line-height: 16px;
         }
-p, H1 {  margin-left:20px; margin-right:10px; }
 
-H1    { color: brown; }
+H1    { color: blue; }
 
 .hidden { color: #0; font-size: 1px ; line-height: 0px; height: 1px; }
 .hidden a:link, .hidden a:visited, .hidden a:hover { font-size: 0px ;color: #111; height: 0px; }
