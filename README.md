@@ -16,5 +16,5 @@ You will find:
 
 |     |     | 
 | --- | --- | 
-[ ![tftpd64](../images/tftpd64.png) | ![jinja2-live](images/jninja2-live-preview.png) |
-| ![qclock](images/qclock.png)   | ![wanem](images/wanem-preview.png) |
+[ ![tftpd64](images/tftpd64.png) | ![jinja2-live](images/jinja2-live-preview.png) |
+| ![qclock](images/qclock.png)   | ![wanem](images/wanem_preview.png) |
