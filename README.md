@@ -27,5 +27,5 @@ see [my linkedin page](https://www.linkedin.com/in/phjounin/)
 
 |     |     | 
 | --- | --- | 
-[ ![tftpd64](images/tftpd64.png) | ![jinja2-live](images/jinja2-live-preview.png) |
+| ![tftpd64](images/tftpd64.png) | ![jinja2-live](images/jinja2-live-preview.png) |
 | ![qclock](images/qclock.png)   | ![wanem](images/wanem_preview.png) |
