@@ -12,8 +12,9 @@ You will find:
 | [weekly-cal](https://github.com/PJO2/weekly_cal/wiki/) | a guide (in french) to build an automation heating system using the domoticz framework and low cost wifi switches |
 | Cheat sheets | Various cheat sheets for [linux](https://github.com/PJO2/cheat-sheet/blob/master/Unix%20redirection%20and%20pipe%20cheat%20sheet.pdf), [Z80](https://github.com/PJO2/cheat-sheet/blob/master/Z80%20CheatSheet.pdf) and [8086](https://github.com/PJO2/cheat-sheet/blob/master/8086%20cheat%20sheet.pdf) assemblers (Yes i'm so old school) and a [Jinja2's cheat sheet](https://github.com/PJO2/cheat-sheet/blob/master/Advanced_Jinja2.pdf) reviewed by Ivan Pepelnjak [here](https://blog.ipspace.net/2021/04/worth-reading-data-manipulation-jinja2.html) |
 
-|     |     |
-| --- | --- |
-| <img src="images/working_tftpd32.jpg"> | <img src="https://github.com/PJO2/qlocktwo-arduino/blob/main/qclock.png" width=50%> |
-| <img src="https://github.com/PJO2/wanem/blob/master/wanem_preview.png" width=50%> |  <img src = "https://github.com/PJO2/jinja2-live/blob/master/preview.png" width=50%> |
 
+
+|     |     | 
+| --- | --- | 
+[ ![tftpd64](images/tftpd64.png) | ![jinja2-live](images/jninja2-live-preview.png) |
+| ![qclock](images/qclock.png)   | ![wanem](images/wanem-preview.png) |
