@@ -14,5 +14,6 @@ You will find:
 
 |     |     |
 | --- | --- |
-| ![tftpd64](images/working_tftpd32.jpg) | ![](https://github.com/PJO2/qlocktwo-arduino/blob/main/qclock.png) |
+| <img src="images/working_tftpd32.jpg"> | <img src="https://github.com/PJO2/qlocktwo-arduino/blob/main/qclock.png" width=50%> |
+| <img src="https://github.com/PJO2/wanem/blob/master/wanem_preview.png" width=50%> |  <img src = "https://github.com/PJO2/jinja2-live/blob/master/preview.png" width=50%> |
 
