@@ -8,7 +8,7 @@ You will find:
 | --- | --- |
 | [Tftpd64](https://github.com/PJO2/tftpd64/) | this is my TFTP server, which has been downloaded more than 15 million times |
 | [uweb](https://github.com/PJO2/uweb/) | A tiny multithreaded web server with immediate setup |  
-| wordclocktwo | An home made word clock written for [arduino](https://github.com/PJO2/qclowktwo-arduino), [raspberry](https://github.com/PJO2/qclocktwo-python/) or [esp8266](https://github.com/PJO2/qclocktwo-esp/) |
+| wordclocktwo | An home made word clock written for [arduino](https://github.com/PJO2/qclocktwo-arduino), [raspberry](https://github.com/PJO2/qclocktwo-python/) or [esp8266](https://github.com/PJO2/qclock-esp/) |
 | [wanem](https://github.com/PJO2/wanem/) | a GUI to remotely manage the netem linux driver
 | [jinja2-live](https://github.com/PJO2/jinja2-live/) | A jinja2 template tester |
 | [weekly-cal](https://github.com/PJO2/weekly_cal/wiki/) | a guide (in french) to build an automation heating system using the domoticz framework and low cost wifi switches |
