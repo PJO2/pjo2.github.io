@@ -1,6 +1,6 @@
 # Philippe Jounin's home page
 
-This is the home page for my open source's projects.
+This is the home page for my open source projects.
 
 You will find:
 
